@@ -1,8 +1,8 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+-[Ll]ibrary/
+-[Tt]emp/
+-[Oo]bj/
+-[Bb]uild/
+-[Bb]uilds/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
@@ -22,7 +22,7 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
-*.opendb
+*.opened
 *.VC.db
 
 # Unity3D generated meta files
